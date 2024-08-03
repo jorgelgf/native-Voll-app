@@ -1,4 +1,4 @@
-# Projeto curso Alura - RectNative
+# Projeto curso Alura - ReactNative
 
 ## Aplicação Vol Mobile
 
