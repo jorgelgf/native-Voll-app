@@ -1,6 +1,6 @@
 # Projeto curso Alura - ReactNative
 
-## Aplicação Vol Mobile
+## Aplicação Voll Mobile
 
 ### Recursos utilizados
 
